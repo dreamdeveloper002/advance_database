@@ -180,4 +180,4 @@
 
 #### PLEASE NOTE
 
-The SQL statement should be run on SQL SERVER MANAGEMENT STUDIO (https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16). And follow the project report in the project report file to import csv files.
+The SQL statement should be run on [SQL SERVER MANAGEMENT STUDIO] (https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16). And follow the project report in the project report file to import csv files.
